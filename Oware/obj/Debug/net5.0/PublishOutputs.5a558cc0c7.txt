@@ -1,0 +1,5 @@
+J:\desktop\2\output\Oware.exe
+J:\desktop\2\output\Oware.dll
+J:\desktop\2\output\Oware.deps.json
+J:\desktop\2\output\Oware.runtimeconfig.json
+J:\desktop\2\output\Oware.pdb

@@ -10,7 +10,7 @@ namespace Oware.Tests
         }
 
         [Test]
-        public void ResetHouseTest()
+        public void ResetHouse()
         {
             //Arrange: 
             House thehouse = new House(0,0);
@@ -19,5 +19,9 @@ namespace Oware.Tests
             //Assert: 
             Assert.AreEqual(4, thehouse.GetCount(),"Resetting House")
         }
+        public void AddSeedToScoreHouse()
+        {
+            
+        } 
     }
 }
