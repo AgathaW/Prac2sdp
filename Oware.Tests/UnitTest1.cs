@@ -12,7 +12,7 @@ namespace Oware.Tests
         [Test]
         public void ResetHouse()
         {
-            //Arrange: 
+            //Arrange. 
             House thehouse = new House(0,0);
             //Act:
             thehouse.ResetHouse();
@@ -21,7 +21,7 @@ namespace Oware.Tests
         }
         public void AddSeedToScoreHouse()
         {
-            
+
         } 
     }
 }
